@@ -19,6 +19,6 @@ A ideia por trás do projeto foi implementar um sistema de controle de cancela a
 * Jumpers
 
 # Protoboard no Tinkercad
-
+![](https://github.com/analuisaleal/CancelaAutomatica/blob/main/94AFDB41-81D2-4307-B9F5-CACF38D3A596.jpg)
 # Vídeo explicativo sobre o projeto
 
